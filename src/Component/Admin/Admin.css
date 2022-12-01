@@ -1,0 +1,24 @@
+.admin_page {
+  color: #eee;
+  margin-top: 100px;
+}
+
+input {
+  width: 450px;
+  height: 40px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 0.666667px solid #c9c9c9;
+  border-radius: 3.33333px;
+  box-sizing: border-box;
+}
+
+.trashAndUpdateBtn {
+  width: 15px;
+}
+
+.plus {
+  width: 20px;
+}
